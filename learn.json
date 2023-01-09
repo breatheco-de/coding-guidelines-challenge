@@ -1,0 +1,19 @@
+{
+	"slug" : "coding-guidelines-challenge",
+	"title" : "Coding Guidelines Challenge",
+	"preview": "https://github.com/breatheco-de/coding-guidelines-challenge/blob/master/preview.png?raw=true",
+	"translations": ["us"],
+	"technologies": ["coding-guidelines"],
+	"difficulty": "beginner",
+	"syntax": "markdown",
+	"duration" : 1,
+  "projectType": "project",
+	"description" : "Refactor your code to following industry best practices when coding",
+	"delivery": {
+		"instructions": {
+			"us": "Submit the URL of one commit of yours with fixes that improve your or someone else's code quality",
+			"es": "Especifica el URL de un commit de tú autoría donde hayas implementado cambios en código tuyo -o de alguien más- que mejoren la calidad del código y cumplan con mejores prácticas."
+		},
+		"formats": ["url"]
+	}
+}
