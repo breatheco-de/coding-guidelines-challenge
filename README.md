@@ -11,4 +11,4 @@ Do not clone or fork this repository, this is not a coding project.
 The your teacher / mentor will open this slides in front of the whole class and move along 
 the slides while the students gues on the questions and challenges.
 
-## Start the challenge [by clicking here](#).
+## Start the challenge [by clicking here](https://coding-guidelines-challenge.vercel.app).
