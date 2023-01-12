@@ -6,8 +6,8 @@ These challenge will help you become familiar with the most popular coding guide
 
 ## 🌱  How to start this project
 
-Do not clone or fork this repository, this is not a coding project.  
-Your teacher will open these slides and share the screen.
+- Do not clone or fork this repository, this is not a coding project.  
+- Your teacher will open these slides and share the screen.
 
 ## 📝 Instructions
 
