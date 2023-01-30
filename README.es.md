@@ -2,7 +2,7 @@
 
 Estos desafíos te ayudarán a familiarizarte con las guías de codificación más populares; cubre las prácticas más esenciales que todos los desarrolladores deben conocer para tener éxito durante las auditorías de código para desarrolladores junior.
 
-> :exclamation: Recomendamos encarecidamente leer [La lección de guías de codificación](https://4geeks.com/lesson/coding-standards-guidelines) antes del desafío.
+> :exclamation: Recomendamos encarecidamente leer [La lección de guías de codificación](https://4geeks.com/es/lesson/estandates-y-lineamientos-de-codigo) antes del desafío.
 ## 🌱 Cómo comenzar este proyecto
 
 - No clones ni le hagas fork a este repositorio, este no es un proyecto de codificación.
