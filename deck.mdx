@@ -30,13 +30,13 @@ Use your arrow keys to move `->`
 <CodeSurfer>
 
 
-```js file=./src/01-html-bug.html title="Find the bug in the code"
+```html file=./src/01-html-bug.html title="Find the bug in the code"
 ```
 
-```js file=./src/01-html-bug.html 12 title="There is a missing <p> tag" showNumbers
+```html file=./src/01-html-bug.html 12 title="There is a missing </p> tag" showNumbers
 ```
 
-```js file=./src/01-html-bug.html title="What best practices are missing?"
+```html file=./src/01-html-bug.html title="What best practices are missing?"
 ```
 
 </CodeSurfer>
@@ -52,7 +52,7 @@ Use your arrow keys to move `->`
   <li>Always Be Closing</li>
 </Html>
 
-```js file=./src/01-html-bug.html
+```html file=./src/01-html-bug.html
 ```
 
 </Step>
@@ -61,25 +61,25 @@ Use your arrow keys to move `->`
     
 <Html>Almost all tags should be at the beginning of the line</Html>
 
-```js 12:16 file=./src/01.1-html-bug-fixed.html
+```html 12:16 file=./src/01.1-html-bug-fixed.html
 ```
 
 </Step>
   
 <Step>
     
-<Html>Only small lines can close at the end of the same line</Html>
+<Html>Only small lines should close at the end of the same line</Html>
 
-```js 4 11 file=./src/01.1-html-bug-fixed.html
+```html 4 11 file=./src/01.1-html-bug-fixed.html
 ```
 
 </Step>
 
 <Step>
 
-<Html>long text must have a line-length limit around 80 characters</Html>
+<Html>long texts must have a line-length limit of around 80 characters</Html>
 
-```js 6:7 file=./src/01.1-html-bug-fixed.html
+```html 6:7 file=./src/01.1-html-bug-fixed.html
 ```
 
 </Step>
@@ -165,7 +165,7 @@ Use your arrow keys to move `->`
 
 <Step>
 
-<Html>Switching the order of the lines generates very different output</Html>
+<Html>Switching the order of the lines generates a very different output</Html>
 
 ```js 15:19 file=./src/03.1-global-variables.js
 ```
@@ -265,7 +265,7 @@ We know that "return" statements stop the function execution.
 <Step>
 
 <Html>
-This line of code will never execute if age > 16
+This line of code will never execute if age >= 16
 </Html>
 
 ```js 3 file=./src/04.1.2-nested-conditionals-simple-fix.js
@@ -332,8 +332,8 @@ Avoid nesting conditionals
   <h4>Now it's time to read some of your and your classmates code:</h4>
 
   <ul style={{fontSize: "30px"}}>
-    <li>Let's split the class as many groups as possible as long as there is one mentor in the group.</li>
-    <li>For example: If there are 2 mentors in a class of 10 students, the we will have 2 groups of 5 students each.</li>
-    <li>Open old projects and propose refectoring options that do follow the coding guidelines.</li>
+    <li>Let's split the class in as many groups as possible as long as there is one mentor in each group.</li>
+    <li>For example: If there are 2 mentors in a class of 10 students, then we will have 2 groups of 5 students each.</li>
+    <li>Open old projects and propose refactoring options that do follow the coding guidelines.</li>
   </ul>
 </Html>
