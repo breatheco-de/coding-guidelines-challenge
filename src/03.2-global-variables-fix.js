@@ -7,7 +7,7 @@ function subtract(x, y) {
 }
 
 function accumulate(x) {
-  // This function is not longer possible
+  // This function is no longer possible
 }
 
 console.log(add(5, 10));
